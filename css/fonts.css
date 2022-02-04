@@ -1,0 +1,27 @@
+@font-face{
+	font-family: "ninoBold";
+	src: url('../fonts/bpg-nino-mtavruli-bold-webfont.ttf')
+}
+@font-face{
+	font-family: "ingiroArial";
+	src: url('../fonts/bpg-ingiri-arial-webfont.ttf')
+}
+@font-face {
+    font-family: 'Pacifico';
+    src: url('../fonts/Pacifico-Regular.woff')
+}
+@font-face {
+    font-family: 'Anaheim';
+    src: url('../fonts/Anaheim-Regular.woff')
+}
+@font-face {
+    font-family: 'Poppins';
+    src: url('../fonts/Poppins-Regular.woff')
+}
+@font-face {
+    font-family: 'BPG Arial';
+    src: url('../fonts/bpg-arial-webfont.woff')
+}
+
+       
+
